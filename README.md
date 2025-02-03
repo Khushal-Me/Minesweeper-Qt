@@ -17,27 +17,11 @@ A classic Minesweeper implementation using the Qt framework. Compatible with Win
 1. Clone the repository
    ```bash
    git clone https://github.com/Khushal-Me/Minesweeper-Qt.git
-   cd minesweeper
    ```
 
 2. Generate Makefile
    ```bash
-   qmake -spec win32-g++ minesweeper.pro
-   ```
-
-3. Build the project
-   ```bash
-   mingw32-make
-   ```
-
-4. Bundle dependencies (from Qt install directory)
-   ```bash
-   windeployqt --release minesweeper.exe
-   ```
-
-5. Run the game
-   ```bash
-   .\release\minesweeper.exe
+   ./minesweeper.exe
    ```
 
 ### 🍏 macOS

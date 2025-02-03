@@ -16,7 +16,7 @@ A classic Minesweeper implementation using the Qt framework. Compatible with Win
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/kmehta73/Minesweeper-Qt.git
+   git clone https://github.com/Khushal-Me/Minesweeper-Qt.git
    cd minesweeper
    ```
 
@@ -44,7 +44,7 @@ A classic Minesweeper implementation using the Qt framework. Compatible with Win
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/kmehta73/Minesweeper-Qt.git
+   git clone https://github.com/Khushal-Me/Minesweeper-Qt.git
    cd minesweeper
    ```
 
